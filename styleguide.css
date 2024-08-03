@@ -1,0 +1,16 @@
+:root {
+  --text-md-regular-font-family: "Inter", Helvetica;
+  --text-md-regular-font-weight: 400;
+  --text-md-regular-font-size: 16px;
+  --text-md-regular-letter-spacing: 0px;
+  --text-md-regular-line-height: 24px;
+  --text-md-regular-font-style: normal;
+  --display-sm-semibold-font-family: "Inter", Helvetica;
+  --display-sm-semibold-font-weight: 600;
+  --display-sm-semibold-font-size: 30px;
+  --display-sm-semibold-letter-spacing: 0px;
+  --display-sm-semibold-line-height: 38px;
+  --display-sm-semibold-font-style: normal;
+  --1-color-modes-colors-foreground-fg-secondary-hover: var(--primitives-colors-gray-light-mode-800);
+  --primitives-colors-gray-light-mode-800: rgba(24, 34, 48, 1);
+}
