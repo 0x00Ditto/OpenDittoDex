@@ -1,6 +1,10 @@
 # OpenDittoDex
 DittoDex is a OpenSource Project which aims to create a pokedex resembling that of Pokemon Kanto
 
+The history of the project?
+
+This project started with a simple exercise from FreeCodeCamp. But I want to make it bigger for the fans of the Pokémon franchise.
+
 ## Feature area : 
 - [x] Search by ID 
 - [x] Search by Name
